@@ -4,13 +4,13 @@
 
 Following is a schedule to learn data science step by step considering **2-3 hours** of dedicated, focused study every single day. This program is perfect for beginners with no knowledge of data science and programming.
 
-### Week 1 and 2: Mathematics 
+### Week 1 and 2: Mathematics
 
-* Statistics
-* Linear Algebra
-* Probability
-* Calculus
-	
+* Mathematics
+	- Statistics
+	- Linear Algebra
+	- Probability
+	- Calculus
 
 ### Week 3 and 4: Python (Basics)
 
@@ -42,21 +42,28 @@ Following is a schedule to learn data science step by step considering **2-3 hou
   - Random Forests
   - scikit-learn
 * Intermediate:
-  - Handling Missing Values
-  - Handling Categorical Variables
-  - Pipelines
-  - Cross-Validation (R)
-  - XGBoost (Python | R)
-  - Data Leakage
+  - Linear Regression
+  - Bias-Variance Tradeoff
+  - Regularized Linear Regression
+  - Cross-Validation & Hyperparameter Tuning
+  - Logistic Regression
+  - K-Nearest Neighbors
+  - Naive Bayes Classifier
+  - Neural Networks
+  - K-Means Clustering
+  - Hierarchical Clustering
 
 ### Week 13, 14, 15, 16: Deep Learning
 
-* Deep learning	 (artificial neural network, convolutional neural network, recurrent neural network) 
+* Aartificial neural network
+* Convolutional neural network
+* Recurrent neural network
   
-### Week 17, 18, 19, 20: SQL & MongoDB
+### Week 17, 18, 19, 20: SQL, MongoDB & Excel
 
 * SQL  
 * MongoDB 
+* Excel
   
 ### Week 21, 22, 23, 24: BI tools
 
