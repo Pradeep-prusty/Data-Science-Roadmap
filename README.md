@@ -72,7 +72,7 @@ Following is a schedule to learn data science step by step considering **2-3 hou
 
   
 ## Skills
---------------
+---------------
 * Basics of Data Structure and Algorithm
 * SQL
 * MongoDB
