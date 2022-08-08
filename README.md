@@ -12,7 +12,7 @@ Following is a schedule to learn data science step by step considering **2-3 hou
 	- Probability
 	- Calculus
 
-### Week 3 and 4: Python (Basicsh
+### Week 3 and 4: Python (Basics)
 
 * List
 * Set
